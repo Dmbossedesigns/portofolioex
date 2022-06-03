@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    text-align: center;
+    font-family: 'Abel', sans-serif, arial;
+}
+
+h1 {
+    margin-top: 40px;
+    font-family: 'Dancing Script', cursive, arial;
+    font-size: 6rem;
+
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Catamaran', sans-serif, arial;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+
+}
+
+
+h3 {
+    color: #11999E;
+}
+
+.top-container {
+    position: relative;
+    background-color: #B3E8E5;
+    padding-top: 160px;
+
+}
+
+.skill-row {
+    text-align: left;
+    margin: 100px auto;
+    width: 50%;
+    line-height: 2;
+}
+
+
+
+.middle-container {}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px;
+}
+
+.title {
+    display: inline-block;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 80px;
+    right: 30%;
+
+}
+
+.botom-cloud {
+    position: absolute;
+}
+
+.title {
+    margin-bottom: 15px;
+}
+
+.sub {
+    margin-bottom: 20px;
+}
+
+.mountain {
+    width: 50%
+}
+
+.profile {
+    width: 5%;
+
+    border-radius: 100%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+
+.graphics {
+    width: 25%;
+    float: right;
+    border-radius: 100%;
+    margin-left: 40px;
+}
+
+.computer {
+    width: 25%;
+    float: left;
+    border-radius: 100%;
+    margin-right: 40px;
+}
+
+.greating {
+    margin-bottom: 50px;
+}
+
+hr {
+
+    border-top: 10px dotted #EAF6F6;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-width: 10px;
+    width: 4%;
+    margin: 10px auto 100px;
+
+}
+
+.contact-me {
+    margin-bottom: 50px;
+    ;
+}
+
+.con {
+    margin-bottom: 20px;
+}
+
+.con-p {
+    margin-bottom: 30px;
+}
+
+.btn {
+    background-color: #11999E;
+    color: white;
+    text-decoration: none;
+    border-radius: 10%;
+    padding: 10px 20px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #11999E;
+    padding: 20px;
+
+}
+
+.copy {
+    margin-top: 30px;
+    color: #EAF6F6;
+}
